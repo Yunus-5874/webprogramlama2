@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc
 using MenBarberApp.Models;
 using MenBarberApp.ViewModel
-namespace MenBarberApp.Controllers
+namespace MenBarberApp.Controller
 {
     public class AccountController Controller
     {
